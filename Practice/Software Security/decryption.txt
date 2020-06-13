@@ -1,0 +1,6 @@
+1> Encryption
+2> Decryption
+	Enter Your Choice: Enter Plain Text:Enter Key: P a b c d e 
+PV 1 2 3 4 5 
+CV 75 76 77 78 79 
+C W X Y @ A 
